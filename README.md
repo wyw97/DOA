@@ -5,6 +5,9 @@ Implement SOTA methods for Direction of Arrival(DOA) and Sound Source Localizati
 ## 
 To Do List
 > TDOA Method: GCC...
+
 > MUSIC
+
 > MVDR Based Method: SRP-PHAT
+
 > DNN Based Method
